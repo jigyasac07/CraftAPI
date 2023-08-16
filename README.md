@@ -42,6 +42,7 @@ an idea to make this library, you are welcome to create an issue ticker or pull 
 requests if possible.
 
 ## Maven repository
+## RAM RAM
 
 ```xml
 	<repositories>
@@ -51,11 +52,11 @@ requests if possible.
             <url>https://repo.codemc.org/repository/maven-public/</url>
         </repository>
     </repositories>
-
     <dependencies>
         <!--Common component for contacting the Mojang API-->
         <dependency>
             <groupId>com.github.games647</groupId>
+
             <artifactId>craftapi</artifactId>
             <version>VERSION</version>
         </dependency>
